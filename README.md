@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wxvstb
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML, CSS, JS
-- 😄 Pronouns: English(us), Ukrainian
+
   
 
 <!---
