@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wxvstb
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML, CSS, JS
+- 🎨 I also can create design in figma
 
-  
 
 <!---
 wxvstb/wxvstb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
