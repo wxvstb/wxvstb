@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm wxvstb 🇺🇦
+## Hi there! 👋 I'm wxvstb 🇺🇦
 
 I’m from **Ukraine** and I’m into **frontend, web development, React/React Native**, and I also experiment with **Python, Telegram bots, and electronics**.
 
