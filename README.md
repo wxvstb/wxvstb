@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @wxvstb
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS, JS
-- 🎨 I also can create design in figma
+# Hi there! 👋 I'm wxvstb 🇺🇦
 
+I’m from **Ukraine** and I’m into **frontend, web development, React/React Native**, and I also experiment with **Python, Telegram bots, and electronics**.
 
-<!---
-wxvstb/wxvstb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 📫 Connect with Me
+
+- Telegram: [@wxvstb](https://t.me/wxvstb)  
+- TikTok: [wxvstb](https://www.tiktok.com/@wxvstb)  
+- GitHub: [wxvstb](https://github.com/wxvstb)  
+
+---
+
+### 🌱 Currently Learning
+
+- React Native animations  
+- Local APK handling and Python bots  
+- Arduino / ESP32 projects  
+
+---
+
+⭐ If you like my GitHub, feel free to leave a star!
