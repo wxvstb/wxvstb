@@ -14,8 +14,8 @@ I’m from **Ukraine** and I’m into **frontend, web development, React/React N
 
 ### 🌱 Currently Learning
 
-- React Native animations  
-- Local APK handling and Python bots  
+- React Native
+- Local APK handling and Python bots
 - Arduino / ESP32 projects  
 
 ---
